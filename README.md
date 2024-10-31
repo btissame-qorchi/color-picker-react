@@ -15,7 +15,7 @@ Color Picker App is a simple React application that allows users to select and c
     - To run this project locally, follow these steps:
     - Clone the repository.
     - Install the dependencies with npm install.
-    - Start the application  with npm run dev.
+    - Start the application with npm run dev.
 
 ## Demo
 
