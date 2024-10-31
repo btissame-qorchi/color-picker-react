@@ -18,3 +18,5 @@ Color Picker App is a simple React application that allows users to select and c
     - Start the application  with npm run dev.
 
 ## Demo
+
+    https://btissame-qorchi.github.io/color-picker-react/
