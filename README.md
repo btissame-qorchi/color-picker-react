@@ -1,6 +1,4 @@
-Color Picker App
-
-# Description
+# Color Picker App
 
 Color Picker App is a simple React application that allows users to select and copy color codes easily.
 
